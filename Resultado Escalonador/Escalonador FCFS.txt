@@ -1,0 +1,157 @@
+Qual escalonador deseja: 1 - FCFS, 2 - SJF, 3 - RobinRound por padrão o escalonador é o FCFS
+1
+[Processo{id, 1tempo=5000}, Processo{id, 2tempo=10000}, Processo{id, 3tempo=15000}, Processo{id, 4tempo=12000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 7 processos.
+Instrução finalizada para o id 1 resta 5 instruções.
+Instrução finalizada para o id 1 resta 4 instruções.
+Instrução finalizada para o id 1 resta 3 instruções.
+Instrução finalizada para o id 1 resta 2 instruções.
+Instrução finalizada para o id 1 resta 1 instruções.
+[Processo{id, 2tempo=10000}, Processo{id, 3tempo=15000}, Processo{id, 4tempo=12000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 6 processos.
+Instrução finalizada para o id 2 resta 10 instruções.
+Instrução finalizada para o id 2 resta 9 instruções.
+Instrução finalizada para o id 2 resta 8 instruções.
+Instrução finalizada para o id 2 resta 7 instruções.
+Instrução finalizada para o id 2 resta 6 instruções.
+[Processo{id, 2tempo=5000}, Processo{id, 3tempo=15000}, Processo{id, 4tempo=12000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 6 processos.
+Instrução finalizada para o id 2 resta 5 instruções.
+Instrução finalizada para o id 2 resta 4 instruções.
+Instrução finalizada para o id 2 resta 3 instruções.
+Instrução finalizada para o id 2 resta 2 instruções.
+Instrução finalizada para o id 2 resta 1 instruções.
+[Processo{id, 3tempo=15000}, Processo{id, 4tempo=12000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 5 processos.
+Instrução finalizada para o id 3 resta 15 instruções.
+Instrução finalizada para o id 3 resta 14 instruções.
+Instrução finalizada para o id 3 resta 13 instruções.
+Instrução finalizada para o id 3 resta 12 instruções.
+Instrução finalizada para o id 3 resta 11 instruções.
+[Processo{id, 3tempo=10000}, Processo{id, 4tempo=12000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 5 processos.
+Instrução finalizada para o id 3 resta 10 instruções.
+Instrução finalizada para o id 3 resta 9 instruções.
+Instrução finalizada para o id 3 resta 8 instruções.
+Instrução finalizada para o id 3 resta 7 instruções.
+Instrução finalizada para o id 3 resta 6 instruções.
+[Processo{id, 3tempo=5000}, Processo{id, 4tempo=12000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 5 processos.
+Instrução finalizada para o id 3 resta 5 instruções.
+Instrução finalizada para o id 3 resta 4 instruções.
+Instrução finalizada para o id 3 resta 3 instruções.
+Instrução finalizada para o id 3 resta 2 instruções.
+Instrução finalizada para o id 3 resta 1 instruções.
+[Processo{id, 4tempo=12000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 4 processos.
+Instrução finalizada para o id 4 resta 12 instruções.
+Instrução finalizada para o id 4 resta 11 instruções.
+Instrução finalizada para o id 4 resta 10 instruções.
+Instrução finalizada para o id 4 resta 9 instruções.
+Instrução finalizada para o id 4 resta 8 instruções.
+[Processo{id, 4tempo=7000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 4 processos.
+Instrução finalizada para o id 4 resta 7 instruções.
+Instrução finalizada para o id 4 resta 6 instruções.
+Instrução finalizada para o id 4 resta 5 instruções.
+Instrução finalizada para o id 4 resta 4 instruções.
+Instrução finalizada para o id 4 resta 3 instruções.
+[Processo{id, 4tempo=2000}, Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 4 processos.
+Instrução finalizada para o id 4 resta 2 instruções.
+Instrução finalizada para o id 4 resta 1 instruções.
+[Processo{id, 5tempo=6000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 3 processos.
+Instrução finalizada para o id 5 resta 6 instruções.
+Instrução finalizada para o id 5 resta 5 instruções.
+Instrução finalizada para o id 5 resta 4 instruções.
+Instrução finalizada para o id 5 resta 3 instruções.
+Instrução finalizada para o id 5 resta 2 instruções.
+[Processo{id, 5tempo=1000}, Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 3 processos.
+Instrução finalizada para o id 5 resta 1 instruções.
+[Processo{id, 6tempo=25000}, Processo{id, 7tempo=31000}]
+Possui 2 processos.
+Instrução finalizada para o id 6 resta 25 instruções.
+Instrução finalizada para o id 6 resta 24 instruções.
+Instrução finalizada para o id 6 resta 23 instruções.
+Instrução finalizada para o id 6 resta 22 instruções.
+Instrução finalizada para o id 6 resta 21 instruções.
+[Processo{id, 6tempo=20000}, Processo{id, 7tempo=31000}]
+Possui 2 processos.
+Instrução finalizada para o id 6 resta 20 instruções.
+Instrução finalizada para o id 6 resta 19 instruções.
+Instrução finalizada para o id 6 resta 18 instruções.
+Instrução finalizada para o id 6 resta 17 instruções.
+Instrução finalizada para o id 6 resta 16 instruções.
+[Processo{id, 6tempo=15000}, Processo{id, 7tempo=31000}]
+Possui 2 processos.
+Instrução finalizada para o id 6 resta 15 instruções.
+Instrução finalizada para o id 6 resta 14 instruções.
+Instrução finalizada para o id 6 resta 13 instruções.
+Instrução finalizada para o id 6 resta 12 instruções.
+Instrução finalizada para o id 6 resta 11 instruções.
+[Processo{id, 6tempo=10000}, Processo{id, 7tempo=31000}]
+Possui 2 processos.
+Instrução finalizada para o id 6 resta 10 instruções.
+Instrução finalizada para o id 6 resta 9 instruções.
+Instrução finalizada para o id 6 resta 8 instruções.
+Instrução finalizada para o id 6 resta 7 instruções.
+Instrução finalizada para o id 6 resta 6 instruções.
+[Processo{id, 6tempo=5000}, Processo{id, 7tempo=31000}]
+Possui 2 processos.
+Instrução finalizada para o id 6 resta 5 instruções.
+Instrução finalizada para o id 6 resta 4 instruções.
+Instrução finalizada para o id 6 resta 3 instruções.
+Instrução finalizada para o id 6 resta 2 instruções.
+Instrução finalizada para o id 6 resta 1 instruções.
+[Processo{id, 7tempo=31000}]
+Possui 1 processos.
+Instrução finalizada para o id 7 resta 31 instruções.
+Instrução finalizada para o id 7 resta 30 instruções.
+Instrução finalizada para o id 7 resta 29 instruções.
+Instrução finalizada para o id 7 resta 28 instruções.
+Instrução finalizada para o id 7 resta 27 instruções.
+[Processo{id, 7tempo=26000}]
+Possui 1 processos.
+Instrução finalizada para o id 7 resta 26 instruções.
+Instrução finalizada para o id 7 resta 25 instruções.
+Instrução finalizada para o id 7 resta 24 instruções.
+Instrução finalizada para o id 7 resta 23 instruções.
+Instrução finalizada para o id 7 resta 22 instruções.
+[Processo{id, 7tempo=21000}]
+Possui 1 processos.
+Instrução finalizada para o id 7 resta 21 instruções.
+Instrução finalizada para o id 7 resta 20 instruções.
+Instrução finalizada para o id 7 resta 19 instruções.
+Instrução finalizada para o id 7 resta 18 instruções.
+Instrução finalizada para o id 7 resta 17 instruções.
+[Processo{id, 7tempo=16000}]
+Possui 1 processos.
+Instrução finalizada para o id 7 resta 16 instruções.
+Instrução finalizada para o id 7 resta 15 instruções.
+Instrução finalizada para o id 7 resta 14 instruções.
+Instrução finalizada para o id 7 resta 13 instruções.
+Instrução finalizada para o id 7 resta 12 instruções.
+[Processo{id, 7tempo=11000}]
+Possui 1 processos.
+Instrução finalizada para o id 7 resta 11 instruções.
+Instrução finalizada para o id 7 resta 10 instruções.
+Instrução finalizada para o id 7 resta 9 instruções.
+Instrução finalizada para o id 7 resta 8 instruções.
+Instrução finalizada para o id 7 resta 7 instruções.
+[Processo{id, 7tempo=6000}]
+Possui 1 processos.
+Instrução finalizada para o id 7 resta 6 instruções.
+Instrução finalizada para o id 7 resta 5 instruções.
+Instrução finalizada para o id 7 resta 4 instruções.
+Instrução finalizada para o id 7 resta 3 instruções.
+Instrução finalizada para o id 7 resta 2 instruções.
+[Processo{id, 7tempo=1000}]
+Possui 1 processos.
+Instrução finalizada para o id 7 resta 1 instruções.
+[]
+Possui 0 processos.
+Tempo em ms: 2889
+
+Process finished with exit code 0
